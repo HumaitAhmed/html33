@@ -1,2 +1,2 @@
 # html33
-css basic
+https://humaitahmed.github.io/html33/
